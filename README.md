@@ -4,9 +4,7 @@ Full stack clone of Instagram android app and webapp.
 
 ## UI Prototype
 
-https://user-images.githubusercontent.com/77967955/175285547-208706cb-de9f-4b86-afad-14fc285fcc28.mp4
-
-https://user-images.githubusercontent.com/77967955/175285605-daab9267-9320-4193-8135-183117a25eb8.mov
+![insta-clone-image](https://user-images.githubusercontent.com/77967955/196025529-225280c0-aeb1-4e09-9fd6-b2fa44a26a9d.png)
 
 ## Learnings
 
